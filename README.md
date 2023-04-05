@@ -1,2 +1,2 @@
-# ecommerce_shop
-My first e-commerce shop on Django
+# django_ecommerce_shop
+E-commerce shop on Django
